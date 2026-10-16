@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* make markdown content look good */
+.prose img { max-width: 100%; }
